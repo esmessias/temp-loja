@@ -78,7 +78,7 @@ main {
 }
 
 .fundo {
-  background-image: url('/assets/img/acre.jpg);
+  background-image: url('/assets/img/acre.jpg');
   margin-top: 140px;
   background-position: center;
   text-align: center;
